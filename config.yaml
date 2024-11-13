@@ -1,0 +1,62 @@
+projectName: 'EdIndia Insights: Key Takeaways for Improving Education Quality in India'
+jsonFilePath: ./input.json
+baseUrl: https://edindia.org
+portalHeading: Improving Education Quality in India
+portalDescription: >-
+  Sterlite EdIndia Foundation aims to enhance the quality of education in India
+  by empowering teachers and administrators through innovative tools and data
+  analytics.
+portalTitle: EdIndia Foundation Insights
+searchPlaceholder: Search for programs and resources
+useAlphabetsCategory: true
+homeLink: https://edindia.org/
+logoLink: https://edindia.org/
+ctaText: Get Started
+aboutLink: https://edindia.org/about-us
+productsLink: https://edindia.org/edindia-events
+logoImgUrl: https://edindia.org/logo.png
+ctaLink: https://edindia.org/join-us
+copyrightText: © 2024 All Rights Reserved, Sterlite EdIndia Foundation
+faviconUrl: https://edindia.org/favicon.ico
+googleTagManagerId: ''
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://in.linkedin.com/company/sterlite-edindia-foundation
+  - platform: YouTube
+    url: https://www.youtube.com/channel/UCxACXYD7fRisZav9746reOQ
+  - platform: Instagram
+    url: https://www.instagram.com/sterlite_edindia_foundation/
+  - platform: Facebook
+    url: https://www.facebook.com/SterliteEdIndiaFoundation/
+  - platform: Twitter
+    url: https://twitter.com/Edindia_EIF
+theme:
+  primaryColor: '#007bff'
+  secondaryColor: '#6c757d'
+  backgroundColor: '#f8f9fa'
+  textColor: '#212529'
+  accentColor: '#28a745'
+fonts:
+  - family: Arial
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Roboto
+    weights:
+      - 500
+      - 600
+      - 700
